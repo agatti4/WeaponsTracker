@@ -6,8 +6,8 @@ The armed forces in Ukraine need a way to keep track of all the weapons and syst
 
 ### Built With
 
-* [![AndroidStudio][AndroidStudio]][AndroidLink]
-* [![Java][Java]][JavaLink]
+* [![CLion][CLion]][CLionLink]
+* [![C++][C++]][C++Link]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -47,9 +47,9 @@ Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/aga
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[AndroidStudio]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
-[AndroidLink]: https://developer.android.com/studio
-[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[JavaLink]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white](https://www.java.com/en/
+[CLion]: https://img.shields.io/badge/C++%20Studio-3DDC84.svg?style=for-the-badge&logo=C++&logoColor=white
+[CLionLink]: https://developer.android.com/studio
+[C++]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white
+[C++Link]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white](https://www.java.com/en/
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
