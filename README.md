@@ -48,7 +48,7 @@ Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/aga
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [CLion]: https://img.shields.io/badge/CLion%20-3DDC84.svg?style=for-the-badge&logo=C++&logoColor=white
-[CLionLink]: [https://developer.android.com/studio](https://www.jetbrains.com/clion/)
+[CLionLink]: https://www.jetbrains.com/clion/
 [C++]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white
 [C++Link]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white]([https://cplusplus.com](https://cplusplus.com)
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
