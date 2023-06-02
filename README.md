@@ -50,6 +50,6 @@ Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/aga
 [CLion]: https://img.shields.io/badge/CLion%20-3DDC84.svg?style=for-the-badge&logo=C++&logoColor=white
 [CLionLink]: https://developer.android.com/studio
 [C++]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white
-[C++Link]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white](https://www.java.com/en/
+[C++Link]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white]([https://cplusplus.com](https://cplusplus.com)
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
