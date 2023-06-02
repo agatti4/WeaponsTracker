@@ -1,4 +1,4 @@
-# weaponsTracker
+# WeaponsTracker
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
