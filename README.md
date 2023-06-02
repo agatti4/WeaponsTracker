@@ -1,8 +1,8 @@
-# weaponTracker
+# weaponsTracker
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a todo list app I created using Android studio.
+The armed forces in Ukraine need a way to keep track of all the weapons and systems they have. These types include tanks, armored vehicles, and missiles. These are stored in an input file that will be read by the program to display and update the file. This program uses a heterogeneous list.
 
 ### Built With
 
@@ -16,21 +16,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Install Android Studio
+1. Install a C++ IDE
 2. Clone the repo
    ```sh
-   git clone https://github.com/agatti4/ToDoList.git
+   git clone https://github.com/agatti4/weaponsTracker.git
    ```
-   
-<!-- USAGE EXAMPLES -->
-## Usage
-<img width="363" alt="Screen Shot 2022-10-02 at 11 50 50 AM" src="https://user-images.githubusercontent.com/100312747/193464018-82c1989b-88e2-4208-a462-dcd5ec077463.png">
-<img width="362" alt="Screen Shot 2022-10-02 at 11 51 06 AM" src="https://user-images.githubusercontent.com/100312747/193464020-d11369e8-3719-47e1-9ad8-cd105875862d.png">
-<img width="362" alt="Screen Shot 2022-10-02 at 11 51 49 AM" src="https://user-images.githubusercontent.com/100312747/193464025-db1333ae-f914-438b-b382-d2f81f4c3c8f.png">
-<img width="360" alt="Screen Shot 2022-10-02 at 11 52 22 AM" src="https://user-images.githubusercontent.com/100312747/193464030-d1e3f51e-f561-44c2-951b-6bc9099d0c97.png">
-
-
-See the [open issues](https://github.com/agatti4/ToDoList/issues) for a full list of proposed features (and known issues).
+  
+See the [open issues](https://github.com/agatti4/weaponsTracker/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -51,7 +43,7 @@ Don't forget to give the project a star! Thanks again!
 
 Anthony Gatti - ajgatti4@gmail.com
 
-Project Link: [https://github.com/agatti4/ToDoList](https://github.com/agatti4/ToDoList)
+Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/agatti4/weaponsTracker)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
