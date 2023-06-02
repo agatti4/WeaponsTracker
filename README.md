@@ -47,7 +47,7 @@ Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/aga
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[CLion]: https://img.shields.io/badge/C++%20-3DDC84.svg?style=for-the-badge&logo=C++&logoColor=white
+[CLion]: https://img.shields.io/badge/CLion%20-3DDC84.svg?style=for-the-badge&logo=C++&logoColor=white
 [CLionLink]: https://developer.android.com/studio
 [C++]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white
 [C++Link]: https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white](https://www.java.com/en/
