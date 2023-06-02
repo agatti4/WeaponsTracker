@@ -19,10 +19,10 @@ To get a local copy up and running follow these simple example steps.
 1. Install a C++ IDE
 2. Clone the repo
    ```sh
-   git clone https://github.com/agatti4/weaponsTracker.git
+   git clone https://github.com/agatti4/WeaponsTracker.git
    ```
   
-See the [open issues](https://github.com/agatti4/weaponsTracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/agatti4/WeaponsTracker/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -43,7 +43,7 @@ Don't forget to give the project a star! Thanks again!
 
 Anthony Gatti - ajgatti4@gmail.com
 
-Project Link: [https://github.com/agatti4/weaponsTracker](https://github.com/agatti4/weaponsTracker)
+Project Link: [https://github.com/agatti4/WeaponsTracker](https://github.com/agatti4/WeaponsTracker)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
